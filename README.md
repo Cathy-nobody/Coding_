@@ -2,7 +2,7 @@
 
 I'm Cathy.
 
-I am interested in AI for science and machine learning for materials.
+I am interested in machine learning for materials discovery.
 
 ## 💻 Coding Activity
 
