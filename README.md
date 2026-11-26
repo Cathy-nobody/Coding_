@@ -9,17 +9,16 @@ I am interested in machine learning for materials discovery.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2026 - To: 24 November 2026
+From: 18 November 2026 - To: 25 November 2026
 
-Total Time: 5 hrs 21 mins
+Total Time: 4 hrs 59 mins
 
-Python     3 hrs 48 mins         ███████████████▓░░░░░░░░░   63.27 %
-CSV        44 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
-Other      40 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
-Markdown   23 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
-Bash       19 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-YAML       2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Text       1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Python     3 hrs 34 mins         ██████████████░░░░░░░░░░░   56.45 %
+Other      1 hr 20 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.18 %
+CSV        51 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
+Markdown   30 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+YAML       2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Bash       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 JSON       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
